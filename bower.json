@@ -1,0 +1,31 @@
+{
+  "name": "transport-elements",
+  "version": "1.0.0",
+  "description": "A set of elements for Advanced REST Client responsible for transport over the internet.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "arc",
+    "net-transport",
+    "advanced-rest-client"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:advanced-rest-client/transport-elements.git"
+  },
+  "dependencies": {
+    
+  },
+  "homepage": "https://github.com/advanced-rest-client/transport-elements",
+  "authors": [
+    "The Advanced REST Client authors"
+  ],
+  "license": "LICENSE.txt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
