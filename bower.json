@@ -14,7 +14,7 @@
     "url": "git@github.com:advanced-rest-client/transport-elements.git"
   },
   "dependencies": {
-    
+    "socket-fetch": "advanced-rest-client/socket-fetch#^1.0.63"
   },
   "homepage": "https://github.com/advanced-rest-client/transport-elements",
   "authors": [
