@@ -1,6 +1,6 @@
 {
   "name": "transport-elements",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "license": "LICENSE.md",
   "description": "A set of elements for Advanced REST Client responsible for transport over the internet.",
   "devDependencies": {
